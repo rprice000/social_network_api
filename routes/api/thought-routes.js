@@ -1,4 +1,7 @@
 const router = require('express').Router();
+
+
+
 const { 
     getAllThoughts, 
     getThoughtById, 
@@ -8,6 +11,9 @@ const {
     deleteThought,
     deleteReaction
 } = require('../../controllers/thought-controller');
+
+
+// List of controller callbacks 
 
 // /api/thoughts
 router.route('/').get(getAllThoughts);

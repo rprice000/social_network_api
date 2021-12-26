@@ -122,5 +122,5 @@ const userController = {
   },
 };
 
-
+// exports user controller
 module.exports = userController;

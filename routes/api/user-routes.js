@@ -14,7 +14,6 @@ const {
 
 // List of controller callbacks 
 // Routes for all users and create user
-  // ../../controllers/user-controllers
   // /api/users
   router
     .route('/')
