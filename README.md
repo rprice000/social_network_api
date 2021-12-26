@@ -41,7 +41,8 @@ GitHub Repo
 https://github.com/rprice000/social_network_api
 
 Screencastify Link
-
+User CRUD Routes Tests
+https://watch.screencastify.com/v/I81OMOQHyO24H1TrGzMi
 
 ## Version
 
