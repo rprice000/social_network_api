@@ -10,7 +10,6 @@ This applicatin uses Express.js, MongoDB, and mongoose to create a social networ
 
 ## Table of Contents
 * [Installation](#installation)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Testing](#testing)
 * [Links](#links)
@@ -23,10 +22,6 @@ This applicatin uses Express.js, MongoDB, and mongoose to create a social networ
 - npm install express
 - npm install mongoose
 
-
-## Screenshots
-
-
 ## Technologies
 - Express.js
 - MongoDB
@@ -34,7 +29,6 @@ This applicatin uses Express.js, MongoDB, and mongoose to create a social networ
 
 ## Testing
 There are not testing dependencies for this application
-
 
 ## Links
 GitHub Repo
