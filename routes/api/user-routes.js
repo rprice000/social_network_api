@@ -1,3 +1,4 @@
+
 const router = require('express').Router();
 
 
@@ -10,7 +11,9 @@ const {
     addFriend,
     deleteFriend
   } = require('../../controllers/user-controller');
-  
+
+// List of controller callbacks 
+// Routes for all users and create user
   // ../../controllers/user-controllers
   // /api/users
   router
@@ -18,6 +21,7 @@ const {
     .get(getAllUsers)
     .post(createUser);
   
+//Routes for users by id 
   // /api/users/:id
   router
     .route('/:id')
@@ -25,6 +29,8 @@ const {
     .put(updateUser)
     .delete(deleteUser);
 
+//Routes for friends schema
+// /api/users/:id/friends/:friendId
   router
     .route('/:id/friends/:friendId')
     .put(addFriend)

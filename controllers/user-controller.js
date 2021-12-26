@@ -1,6 +1,6 @@
 const { User } = require('../models');
 
-
+// Variable object with all CRUD Methods needed
 const userController = {
   // get all users
   getAllUsers(req, res) {
@@ -77,6 +77,7 @@ const userController = {
       .catch((err) => res.status(400).json(err));
   },
 
+  // update user friends
   addFriend({ params }, res) {
     User.findOneAndUpdate(
       { _id: params.id },
@@ -98,6 +99,7 @@ const userController = {
       .catch((err) => res.json(err));
   },
 
+  // delete user friends
   deleteFriend({ params }, res) {
     User.findOneAndUpdate(
       { _id: params.id },
