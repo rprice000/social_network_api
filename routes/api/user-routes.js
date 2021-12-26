@@ -9,8 +9,9 @@ const {
     deleteUser,
     addFriend,
     deleteFriend
-  } = require('../../controllers/user-controllers');
+  } = require('../../controllers/user-controller');
   
+  // ../../controllers/user-controllers
   // /api/users
   router
     .route('/')
