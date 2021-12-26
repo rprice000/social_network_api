@@ -35,15 +35,15 @@ GitHub Repo
 https://github.com/rprice000/social_network_api
 
 Screencastify Link
-Starting the Application and Showing the Code
+- Starting the Application and Showing the Code
 https://watch.screencastify.com/v/s4BylEUDvT3aBBm7ZrvS
-User CRUD Routes Tests
+- User CRUD Routes Tests
 https://watch.screencastify.com/v/I81OMOQHyO24H1TrGzMi
-Thought CRUD Routes Tests
+- Thought CRUD Routes Tests
 https://watch.screencastify.com/v/UUlXpeF1GynNPfZujKhX
-Reactions Post and Delete Routes Tests
+- Reactions Post and Delete Routes Tests
 https://watch.screencastify.com/v/CTDwEAunBoNwKJRHUDZ1
-Friends Add and Delete Routes Tests
+- Friends Add and Delete Routes Tests
 https://watch.screencastify.com/v/BMeQ1wNkrLGQI512wijB
 ## Version
 
