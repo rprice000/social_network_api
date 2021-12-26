@@ -45,6 +45,8 @@ User CRUD Routes Tests
 https://watch.screencastify.com/v/I81OMOQHyO24H1TrGzMi
 Thought CRUD Routes Tests
 https://watch.screencastify.com/v/UUlXpeF1GynNPfZujKhX
+Reactions Post and Delete Routes Tests
+https://watch.screencastify.com/v/CTDwEAunBoNwKJRHUDZ1
 
 ## Version
 
