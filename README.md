@@ -51,8 +51,6 @@ https://watch.screencastify.com/v/UUlXpeF1GynNPfZujKhX
 - 1.0.0
 
 ## Authors
-
-
 - Reagan Price
 - Github account: rprice000
 
